@@ -130,9 +130,11 @@
  }
 
  .home-img img {
-   height: 450px;
+   height: 300px;
    border-radius: 50%;
    border: rgb(8, 248, 216) solid
+   align-items : left;
+   
  }
 
  .home-text span {
